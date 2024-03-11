@@ -4,7 +4,8 @@
 
 Dear Contributors and Users,
 
-This is to inform you that significant changes have been made in the project to migrate from `javax` namespace to `jakarta` namespace. This migration is part of the ongoing efforts to support Jakarta EE, the community-driven specification for enterprise Java.
+This is to inform you that significant changes have been made in the project to migrate from `javax` namespace to `jakarta` namespace. This migration is part of the ongoing efforts to support Jakarta EE,
+the community-driven specification for enterprise Java.
 
 ### Changes Made:
 
